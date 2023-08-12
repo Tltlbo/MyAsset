@@ -26,6 +26,8 @@
 		4E7F51392A8784CA00912D80 /* AssetSectionHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E7F51382A8784CA00912D80 /* AssetSectionHeaderView.swift */; };
 		4E7F513B2A87863B00912D80 /* AssetSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E7F513A2A87863B00912D80 /* AssetSectionView.swift */; };
 		4E7F513D2A87886A00912D80 /* AssetSummaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E7F513C2A87886A00912D80 /* AssetSummaryView.swift */; };
+		4E7F51412A87DCAB00912D80 /* TabMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E7F51402A87DCAB00912D80 /* TabMenuView.swift */; };
+		4E7F51432A87E24700912D80 /* AssetCardSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E7F51422A87E24700912D80 /* AssetCardSectionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +52,8 @@
 		4E7F51382A8784CA00912D80 /* AssetSectionHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetSectionHeaderView.swift; sourceTree = "<group>"; };
 		4E7F513A2A87863B00912D80 /* AssetSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetSectionView.swift; sourceTree = "<group>"; };
 		4E7F513C2A87886A00912D80 /* AssetSummaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetSummaryView.swift; sourceTree = "<group>"; };
+		4E7F51402A87DCAB00912D80 /* TabMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabMenuView.swift; sourceTree = "<group>"; };
+		4E7F51422A87E24700912D80 /* AssetCardSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssetCardSectionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +88,8 @@
 			children = (
 				4E7F513F2A8789AC00912D80 /* AssetSummaryView */,
 				4E7F510A2A85121200912D80 /* MyAssetApp.swift */,
+				4E7F51402A87DCAB00912D80 /* TabMenuView.swift */,
+				4E7F51422A87E24700912D80 /* AssetCardSectionView.swift */,
 				4E7F510C2A85121200912D80 /* ContentView.swift */,
 				4E7F51202A85289900912D80 /* AssetView.swift */,
 				4E7F51262A8674F800912D80 /* Entities */,
@@ -227,10 +233,12 @@
 				4E7F51252A8674C900912D80 /* AssetBanner.swift in Sources */,
 				4E7F51212A85289900912D80 /* AssetView.swift in Sources */,
 				4E7F510D2A85121200912D80 /* ContentView.swift in Sources */,
+				4E7F51412A87DCAB00912D80 /* TabMenuView.swift in Sources */,
 				4E7F510B2A85121200912D80 /* MyAssetApp.swift in Sources */,
 				4E7F511B2A85238200912D80 /* AssetMenu.swift in Sources */,
 				4E7F512D2A867B6A00912D80 /* PageControl.swift in Sources */,
 				4E7F512F2A86841500912D80 /* AssetBannerView.swift in Sources */,
+				4E7F51432A87E24700912D80 /* AssetCardSectionView.swift in Sources */,
 				4E7F51282A86756800912D80 /* BannerCard.swift in Sources */,
 				4E7F511D2A85258800912D80 /* AssetMenuButtonStyle.swift in Sources */,
 			);
